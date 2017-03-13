@@ -16,8 +16,9 @@
 
 * [1장 데이터 타입과 연산 - 김유환](https://github.com/ll6668/yuhwan/wiki/JAVASCRIPT-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%97%B0%EC%82%B0%EC%9E%90)
 
+* [2장 함수와 프로토타입 체이닝 - 장서윤](https://github.com/jangseoyoon/seoyoon/wiki/Chapter-04.-%ED%95%A8%EC%88%98%EC%99%80-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B2%B4%EC%9D%B4%EB%8B%9D)
 
-
+ 
 * [clean-code for javascript](https://github.com/qkraudghgh/clean-code-javascript-ko): 자바스크립트 클린 코드를 위한 지침서. 나중에 하루 시간되면 한번씩 같이 보는것도 좋을듯!
 
 
